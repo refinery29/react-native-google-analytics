@@ -23,5 +23,8 @@
     "google",
     "experiment",
     "variant"
-  ]
+  ],
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
